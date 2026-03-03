@@ -1,0 +1,14 @@
+/* style.css */
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: aquamarine;
+  color: red;
+}
+
+.container {
+  display: flex;
+  flex-direction: column; /* heading on top, result below */
+  justify-content: center;
+  align-items: center;
+}
